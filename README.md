@@ -53,7 +53,7 @@ fSIM <- panel.SIM(data_processed)
 dCIDB <- CID
 dCIDT <- CID
 dMUN <- CADMUN
-rm(SIM, SIML)
+rm(data, data_processed)
 save.image(file = "database.Rdata")
 ```
 
