@@ -24,7 +24,7 @@ To start using the "PaSim" package, follow the steps below:
 
 ``` r
 install.packages("remotes")
-remotes::install_github("abelbrasil/PaSim")
+remotes::install_github("repositorio-paineis-publicos/PaSim")
 ```
 
 2.  Load the package: Use the `library(PaSim)` command to load the package into your R environment.
